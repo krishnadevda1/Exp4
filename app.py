@@ -1,2 +1,2 @@
-print("Krish is a good boy")
-print("krish studies physics")
+print("Krish is a not a bad boy")
+print("krish studies chemistry")
