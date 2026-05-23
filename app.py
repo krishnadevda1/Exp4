@@ -1,2 +1,2 @@
-print("Krish is a good boy")
-print("krish studies physics")
+print("This is main branch")
+print("krish is in main branch")
